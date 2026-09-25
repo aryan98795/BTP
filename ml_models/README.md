@@ -47,3 +47,13 @@ The output layout is `results/<source-file-name>/`. Each source folder has a
 `<source>_cleaned.csv` with one row per voltage/current scan point and a
 `dataset.csv` with one row per simulation. Model folders contain metrics,
 predictions, and graphs. The model runs read the cleaned CSV.
+
+To copy all charts into a single organized folder after regenerating model
+results, run:
+
+```bash
+./.venv/bin/python ml_models/collect_images.py
+```
+
+The image hierarchy and `image_index.csv` are documented in
+`results/images/README.md`.
