@@ -1,0 +1,5 @@
+source_file,unique_runs,best_model_by_MAE,best_MAE,result_folder
+bandGap+ElectronAffinity.iv,25,support_vector_regression,0.24093641046089545,results/bandGap+ElectronAffinity
+thickness+bandgap.iv,50,support_vector_regression,0.17309581948674796,results/thickness+bandgap
+thickness+dielectricPermitivity.iv,75,support_vector_regression,0.1879144026250272,results/thickness+dielectricPermitivity
+thickness.iv,15,support_vector_regression,0.04354370074617601,results/thickness

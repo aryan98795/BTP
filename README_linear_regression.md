@@ -25,6 +25,16 @@ It writes `qe_random_forest_predictions.csv`,
 Photon energy is not modeled because it is derived from wavelength
 (approximately `1240 / lambda(nm)`).
 
+## Compare the QE models
+
+To train both models on the same 80/20 split and create a visual comparison:
+
+```bash
+.venv/bin/python compare_qe_models.py
+```
+
+This creates `qe_model_comparison.csv` and `qe_model_comparison.png`.
+
 ## Interactive dashboard
 
 Start the local dashboard with:

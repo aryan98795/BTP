@@ -1,0 +1,16 @@
+source_file,simulation_step,eta(%),thickness[µm]
+thickness.iv,1,15.9759,0.5
+thickness.iv,2,16.2104,0.5408
+thickness.iv,3,16.4396,0.585
+thickness.iv,4,16.6575,0.6327
+thickness.iv,5,16.8516,0.6844
+thickness.iv,6,17.0244,0.7402
+thickness.iv,7,17.1769,0.8007
+thickness.iv,8,17.3101,0.866
+thickness.iv,9,17.4258,0.9367
+thickness.iv,10,17.5242,1.013
+thickness.iv,11,17.6067,1.096
+thickness.iv,12,17.6737,1.185
+thickness.iv,13,17.7282,1.282
+thickness.iv,14,17.7693,1.387
+thickness.iv,15,17.7987,1.5

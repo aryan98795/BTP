@@ -1,0 +1,2 @@
+runs_parsed,source_files,target,features,seed,split
+90,"bandGap+ElectronAffinity.iv, thickness+bandgap.iv, thickness+dielectricPermitivity.iv, thickness.iv",eta(%),"band gap[eV], electron affinity[eV], thickness[µm], dielectric permittivity (relative)",42,80/20 grouped by identical parameter configuration

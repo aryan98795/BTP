@@ -1,0 +1,26 @@
+source_file,simulation_step,eta(%),band gap[eV],electron affinity[eV]
+bandGap+ElectronAffinity.iv,1,11.2707,1.2,3.97
+bandGap+ElectronAffinity.iv,2,13.7137,1.2,4.066
+bandGap+ElectronAffinity.iv,3,15.1046,1.2,4.165
+bandGap+ElectronAffinity.iv,4,14.6904,1.2,4.266
+bandGap+ElectronAffinity.iv,5,12.6652,1.2,4.37
+bandGap+ElectronAffinity.iv,6,12.0523,1.247,3.97
+bandGap+ElectronAffinity.iv,7,14.3163,1.247,4.066
+bandGap+ElectronAffinity.iv,8,15.3456,1.247,4.165
+bandGap+ElectronAffinity.iv,9,14.6231,1.247,4.266
+bandGap+ElectronAffinity.iv,10,12.3037,1.247,4.37
+bandGap+ElectronAffinity.iv,11,12.7704,1.296,3.97
+bandGap+ElectronAffinity.iv,12,14.7451,1.296,4.066
+bandGap+ElectronAffinity.iv,13,15.3602,1.296,4.165
+bandGap+ElectronAffinity.iv,14,14.3516,1.296,4.266
+bandGap+ElectronAffinity.iv,15,11.8332,1.296,4.37
+bandGap+ElectronAffinity.iv,16,13.3373,1.347,3.97
+bandGap+ElectronAffinity.iv,17,14.8972,1.347,4.066
+bandGap+ElectronAffinity.iv,18,15.1387,1.347,4.165
+bandGap+ElectronAffinity.iv,19,13.819,1.347,4.266
+bandGap+ElectronAffinity.iv,20,11.319,1.347,4.37
+bandGap+ElectronAffinity.iv,21,13.5462,1.4,3.97
+bandGap+ElectronAffinity.iv,22,14.6721,1.4,4.066
+bandGap+ElectronAffinity.iv,23,14.6097,1.4,4.165
+bandGap+ElectronAffinity.iv,24,13.0536,1.4,4.266
+bandGap+ElectronAffinity.iv,25,10.7217,1.4,4.37

@@ -1,0 +1,9 @@
+feature,importance_mean,importance_std
+missing(dielectric permittivity (relative)),0.0,0.0
+missing(band gap[eV]),0.0,0.0
+dielectric permittivity (relative),0.0693912010321826,0.03199606978400927
+missing(electron affinity[eV]),0.1774604224820948,0.07605265645489785
+band gap[eV],0.20136077083073226,0.05294276739609948
+thickness[µm],0.2611896883830062,0.06082585417923312
+electron affinity[eV],0.6024205934050181,0.12768593888398086
+missing(thickness[µm]),0.6952146272154415,0.21896055934296357

@@ -1,0 +1,3 @@
+Best by MAE: support_vector_regression (MAE 0.0978 percentage points)
+Runs: 90 | Train/test split: 80/20 grouped by identical parameter configuration
+Interpret metrics cautiously: current data are small SCAPS parameter sweeps; test rows can be nearby settings from the same sweep.
